@@ -31,7 +31,7 @@ Initially I started with 0.01 for P, and 1.0 for D and 0.001 for I,but  after te
 ### Demo videos 
 ____
 
-All the videos with recording of car running on a track is there in **videos\_demo** folder.
+All the videos with recording of car running on a track is there in **video\_demos** folder.
 
 * **P-parameter**: When **P** parameter kept zero car moved steadily but falls out of track while making left turn on track. 
 
