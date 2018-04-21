@@ -1,0 +1,3 @@
+/home/admin123/SCND/Term2/PID controller/PID_Controller/build/CMakeFiles/rebuild_cache.dir
+/home/admin123/SCND/Term2/PID controller/PID_Controller/build/CMakeFiles/pid.dir
+/home/admin123/SCND/Term2/PID controller/PID_Controller/build/CMakeFiles/edit_cache.dir

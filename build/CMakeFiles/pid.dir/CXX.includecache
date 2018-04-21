@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/admin123/SCND/Term2/PID controller/PID_Controller/src/PID.cpp
+PID.h
+/home/admin123/SCND/Term2/PID controller/PID_Controller/src/PID.h
+iostream
+-
+
+/home/admin123/SCND/Term2/PID controller/PID_Controller/src/PID.h
+uWS/uWS.h
+-
+
+/home/admin123/SCND/Term2/PID controller/PID_Controller/src/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+cctype
+-
+ciso646
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+stdexcept
+-
+string
+-
+type_traits
+-
+utility
+-
+vector
+-
+
+/home/admin123/SCND/Term2/PID controller/PID_Controller/src/main.cpp
+uWS/uWS.h
+-
+iostream
+-
+json.hpp
+/home/admin123/SCND/Term2/PID controller/PID_Controller/src/json.hpp
+PID.h
+/home/admin123/SCND/Term2/PID controller/PID_Controller/src/PID.h
+math.h
+-
+
